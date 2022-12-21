@@ -46,4 +46,5 @@ If Mysql workbench not installed, follow the steps https://www.simplilearn.com/t
      Step 5: Save the changes and commit().
      
   <ins>**OUTPUT**<ins>
+  
   [output.csv](https://github.com/anush-933/Spotipy-song-extraction-connect-with-mysqldatabase/files/10274842/output.csv)
