@@ -22,7 +22,7 @@ For more : https://developer.spotify.com/documentation/web-api/
       Step 4: Using user_playlist_tracks() and audio_features() functions, extract the playlist's information and return as concatenated dataframes
       Step 5: return the final dataframe 
       
-<ins>*3. STEPS TO CREATE DATABASE IN MySQL WORKBENCH*<ins>
+<ins>*3. STEPS TO DOWNLOAD IN MySQL WORKBENCH*<ins>
 
 If Mysql workbench not installed, follow the steps https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation
 
@@ -31,6 +31,10 @@ If Mysql workbench not installed, follow the steps https://www.simplilearn.com/t
      Step 1: Click 'New Connection + '. Give new connection name and click enter.
      Step 2: In Tables, create new table (in my rep the table name is 'songs_list').
      Step 3: Right CLick on the table and click 'Alter Table' and create columns and datatype.
+     
+<p align="center">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/82230179/208829184-f76cdef7-a256-434d-b131-69993dba2575.png">
+</p>
 
 <ins>*5. CONNECT PYTHON AND MySQL (Ref connect_t_mysql.py)*<ins>
      
@@ -41,4 +45,5 @@ If Mysql workbench not installed, follow the steps https://www.simplilearn.com/t
      Step 4: The Sql query 'INSERT' is used and executed.
      Step 5: Save the changes and commit().
      
-     
+  <ins>**OUTPUT**<ins>
+  [output.csv](https://github.com/anush-933/Spotipy-song-extraction-connect-with-mysqldatabase/files/10274842/output.csv)
